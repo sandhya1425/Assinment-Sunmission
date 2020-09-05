@@ -1,2 +1,2 @@
-# Assinment-Sunmission
+# Assinment-Submission
 Submission of Assignment
